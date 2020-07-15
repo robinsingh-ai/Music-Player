@@ -1,8 +1,7 @@
 # Music-Player
- [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 [![GitHub license](https://img.shields.io/github/license/MelleDijkstra/PythonMusicPlayer.svg)](https://github.com/robin025/Music-Player/blob/master/LICENSE)
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/downloads/release/python-360/)
 
 
 A Python GUI Based Music Player Which Uses Mutagen,Pygame 
