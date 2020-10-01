@@ -1,10 +1,12 @@
-# Music-Player
+# Music-Player 
+
+
 [![GitHub license](https://img.shields.io/github/license/MelleDijkstra/PythonMusicPlayer.svg)](https://github.com/robin025/Music-Player/blob/master/LICENSE)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/downloads/release/python-360/)
 
 
-A Python GUI Based Music Player Which Uses Mutagen,Pygame 
+A Python GUI Based Music Player Which Uses Mutagen,Pygame modules
 Rockerz Music Player written in Python using [PyGame Module](https://www.pygame.org/docs/), [Mutagen](https://pypi.org/project/mutagen/) and [Tkinter Themes](https://pypi.org/project/ttkthemes/)
 
 
